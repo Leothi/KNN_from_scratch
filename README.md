@@ -4,7 +4,7 @@ K-Nearest Neighbors algorithm from scratch using with Python.
 
 ## Getting Started
 
-Basic implementation of the algorithm for study porpuses. Jupyter Notebook was used to get the code. No data manipulation libraries were allowed.
+Basic implementation of the algorithm for study purposes. Jupyter Notebook was used to get the code. No data manipulation libraries were allowed.
 
 ### Prerequisites
 
